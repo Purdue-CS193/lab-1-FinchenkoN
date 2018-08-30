@@ -15,9 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+#Things I Enjoy About CS193
 - Cameron seems like a cool guy.
 - Albert seems like a cool guy.
--
+
 1. Numbered
 2. List
 
