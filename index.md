@@ -19,8 +19,6 @@ Syntax highlighted code block
 - Cameron seems like a cool guy.
 - Albert seems like a cool guy.
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
